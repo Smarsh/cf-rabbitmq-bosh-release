@@ -10,20 +10,20 @@ erlang-25/otp_src_oss_25.3.2.9.tgz:
   object_id: 58906aa2-1291-4d78-698d-f465b9c6164d
   sha: sha256:3d73152bb58a1cd7411881eb96bfb65b4e21ba3dc75ccd25f66c3816e10256b9
 # this comment prevents git conflicts
-erlang-26/otp_src_oss_26.2.3.tgz:
-  size: 62992336
-  object_id: f0e21cf6-5a2a-425a-56c3-572f2d843677
-  sha: sha256:914e019ee9ba6cd7970eb2d7e29e9cffb30b96f9950d8b96d3d47cc48b6acce2
+erlang-26/otp_src_oss_26.2.2.tgz:
+  size: 62957666
+  object_id: ab24bd15-a93e-4e15-7446-d290c2be0202
+  sha: sha256:bb3d35e61d1e1e9c16b7152c63c5ff67e02fd4dcc1772f16b02f8638631d84a6
 # this comment prevents git conflicts
-golang/go1.22.1.linux-amd64.tar.gz:
-  size: 68965341
-  object_id: b203281f-3d4e-4f26-4e8a-55610f845388
-  sha: sha256:aab8e15785c997ae20f9c88422ee35d962c4562212bb0f879d052a35c8307c7f
+golang/go1.22.2.linux-amd64.tar.gz:
+  size: 68958123
+  object_id: 7757fbde-6293-4d44-616f-124db7723f69
+  sha: sha256:5901c52b7a78002aeff14a21f93e0f064f74ce1360fce51c6ee68cd471216a17
 # this comment prevents git conflicts
-haproxy/haproxy-2.6.16.tar.gz:
-  size: 4084854
-  object_id: f78310f9-c327-4682-7051-e76e94208dae
-  sha: sha256:faac6f9564caf6e106fe22c77a1fb35406afc8cd484c35c2c844aaf0d7a097fb
+haproxy/haproxy-2.6.17.tar.gz:
+  size: 4094829
+  object_id: '085503b4-8bf5-4063-545d-322063427507'
+  sha: sha256:be48ee8ff9127c402b4c6cf1445cef7052f2c540ed1eff2dd04af677b8cd9dd0
 # this comment prevents git conflicts
 rabbitmq-server-3.11/rabbitmq-server-generic-unix-3.11.28.tar.xz:
   size: 15594916
